@@ -1,2 +1,2 @@
-Dataset raw untuk proyek klasifikasi Robot Maqueen Micro:bit.
-Kelas: forward, left, right, stop.
+Isi folder kelas dengan citra asli. Target minimal 50 citra per kelas.
+Jangan gunakan gambar contoh sebagai hasil eksperimen.
