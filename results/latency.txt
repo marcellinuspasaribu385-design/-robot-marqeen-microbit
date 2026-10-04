@@ -1,0 +1,4 @@
+Model: ResNet-18 Partial Fine-Tuning
+Device: CPU
+Average inference latency: 20.49 ms/frame
+Estimated inference FPS: 48.80
